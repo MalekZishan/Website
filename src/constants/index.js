@@ -136,13 +136,13 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our product, but Zishan Malek proved me wrong.",
     name: "Sara Lee",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "I've never met a web developer who truly cares about their clients' success like Zishan Malek.",
     name: "Chris Brown",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
