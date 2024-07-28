@@ -59,7 +59,7 @@ export default function App({ Component, pageProps }) {
          <ThemeProvider attribute="class" defaultTheme="dark">
             <Component {...pageProps} loading={loading} />
             <Analytics />
-            {/* {loading && <PreLoader />} */}
+            {loading && <PreLoader />}
          </ThemeProvider>
       </>
    );
