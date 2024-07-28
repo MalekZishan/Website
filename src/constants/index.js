@@ -158,7 +158,7 @@ const projects = [
    {
       name: "Whinnleys",
       description:
-         "Cross  platform  Application that allows users to search, book, and manage dog and mange booking tracking  rentals from various driver, providing a convenient and efficient solution for transportation needs.",
+         "Cross-platform application that enables users to search, book, and manage dog rentals from various drivers, providing a convenient solution for transportation needs.",
       tags: [
          {
             name: "React Native",
@@ -179,7 +179,7 @@ const projects = [
    {
       name: "JAYNIT",
       description:
-         "Cross  platform  Application that allows users to Make Group as well user can do post like what kind of problem facing like that's or as well this project i did add chatgpt with open api or also i did make like user can chat one to one or as well user can make group chat.",
+         "Cross-platform application that allows users to create groups and make posts about the problems they are facing. I have integrated ChatGPT with an open API, and users can chat one-on-one or create group chats.",
       tags: [
          {
             name: "React Native",
@@ -200,7 +200,7 @@ const projects = [
    {
       name: "Trim It",
       description:
-         "Cross  platform  Application that Here is 2 Flow 1 Barber or 2 Customer . For the Customer can find the nearby barber shope or as well as customer can do booking like that or do payment like that.For the Barber  can accept customer booking or track like that or as well Barber can do chat to the customer.",
+         "Cross-platform application that has two flows - 1 for barbers and 2 for customers. For the customers: they can find nearby barber shops, make bookings, and do payments. For the barbers: they can accept customer bookings, track appointments, and communicate with customers via chat",
       tags: [
          {
             name: "React Native",
@@ -225,7 +225,7 @@ const projects = [
    {
       name: "@Home VR",
       description:
-         "In this app a user can upload property for the rent like airbin.also i add booking system",
+         "In this app, users can upload properties for rent, similar to Airbnb. I have also added a booking system.",
       tags: [
          {
             name: "React Native",
@@ -250,7 +250,7 @@ const projects = [
    {
       name: "Pin Stop",
       description:
-         "This is social media app that allow to users make a post or as well share with frd,public or private .aslo i have added group chat or private chat.also i have added deeplinking ",
+         "This is a social media app that allows users to make a post and share it with friends, the public, or privately. Additionally, I have added group chat and private chat options. I have also added deep linking.",
       tags: [
          {
             name: "React Native",
