@@ -195,7 +195,7 @@ const projects = [
          },
       ],
       image: jeynit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://play.google.com/store/apps/details?id=com.jeynit.App&hl=en_IN",
    },
    {
       name: "Trim It",
@@ -245,7 +245,7 @@ const projects = [
          },
       ],
       image: home,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://play.google.com/store/apps/details?id=com.Home_App&hl=en_IN",
    },
    {
       name: "Pin Stop",
@@ -270,7 +270,7 @@ const projects = [
          },
       ],
       image: pinstop,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://apps.apple.com/us/app/pinstop/id6498883300",
    },
 ];
 
