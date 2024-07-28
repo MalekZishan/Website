@@ -25,12 +25,12 @@ function About() {
             viewport={{ once: true, amount: 0.25 }}
             className="mt-4 dark:text-ctnSecondaryDark text-gray-300 text-[17px] w-full leading-[30px] flex flex-col justify-between gap-6">
             <div>
-               I'm a skilled software developer with experience in TypeScript and JavaScript, and expertise in
+               {`I'm a skilled software developer with experience in TypeScript and JavaScript, and expertise in
                frameworks like React Native, Node.js, . I'm a quick learner and collaborate closely with
                clients to create efficient, scalable, and user-friendly solutions that solve real-world
-               problems. Let's work together to bring your ideas to life!
+               problems. Let's work together to bring your ideas to life!`}
                <br className="sm:block hidden" />
-               Let&apos;s collaborate to bring your ideas to life!
+               Let&quot;s collaborate to bring your ideas to life!
             </div>
             <div className="w-fit break-words">
                <Link

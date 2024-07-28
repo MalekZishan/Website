@@ -8,6 +8,7 @@ import { styles } from "../styles";
 import { experiences } from "../constants";
 import { SectionWrapper } from "../hoc";
 import { textVariant } from "../utils/motion";
+import Image from "next/image";
 
 const ExperienceCard = ({ experience }) => {
    return (
@@ -21,7 +22,7 @@ const ExperienceCard = ({ experience }) => {
          iconStyle={{ background: experience.iconBg }}
          icon={
             <div className="flex justify-center items-center w-full h-full">
-               <img
+               <Image
                   src={experience.icon}
                   alt={experience.company_name}
                   className="w-[60%] h-[60%] object-contain"

@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 import { styles } from "../styles";
 import { navLinks } from "../constants";
 import { logo, menu, close } from "../assets";
+import Image from "next/image";
 
 const Navbar = () => {
    const [active, setActive] = useState("");
@@ -59,7 +60,7 @@ const Navbar = () => {
             </ul>
 
             <div className="sm:hidden flex flex-1 justify-end items-center">
-               <img
+               <Image
                   src={toggle ? close : menu}
                   alt="menu"
                   className="w-[28px] h-[28px] object-contain"
