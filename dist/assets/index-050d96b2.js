@@ -52231,7 +52231,7 @@ const cj = (n, e) =>
                         it("h1", {
                            className: `${Vn.heroHeadText} text-white`,
                            children: [
-                              "Hi, I'm ",
+                              "Hi, I'm,
                               ce("span", { className: "text-[#915EFF]", children: "Zishan Malek" }),
                            ],
                         }),
